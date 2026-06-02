@@ -1,0 +1,59 @@
+{
+  "siteId": "wet-market-wandering-guide",
+  "generatedAt": "2026-06-02T15:38:17.003105",
+  "categories": [
+    "beginner-wet-market-wandering-guide",
+    "advanced-wet-market-wandering-guide",
+    "tips-wet-market-wandering-guide",
+    "history-wet-market-wandering-guide",
+    "trending-wet-market-wandering-guide",
+    "tutorials-wet-market-wandering-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-wet-market-wandering-guide",
+      "category_name": "Beginner Wet Market Wandering Guide"
+    },
+    {
+      "category_slug": "advanced-wet-market-wandering-guide",
+      "category_name": "Advanced Wet Market Wandering Guide"
+    },
+    {
+      "category_slug": "tips-wet-market-wandering-guide",
+      "category_name": "Wet Market Wandering Guide Tips"
+    },
+    {
+      "category_slug": "history-wet-market-wandering-guide",
+      "category_name": "Wet Market Wandering Guide History"
+    },
+    {
+      "category_slug": "trending-wet-market-wandering-guide",
+      "category_name": "Trending Wet Market Wandering Guide"
+    },
+    {
+      "category_slug": "tutorials-wet-market-wandering-guide",
+      "category_name": "Wet Market Wandering Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "wet-market-wandering-guide",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Wet Market Wandering Guide Central",
+    "articles_per_row": 4
+  }
+}
